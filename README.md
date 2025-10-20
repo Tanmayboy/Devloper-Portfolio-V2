@@ -19,6 +19,12 @@ Install Node JS
 Open DIR By 
 - ``` cd Devloper-Portfolio-V2 ```
 
+Create ```.env.local``` File
+- ``` nano .env.local ```
+- Add Following Lines
+- ``` DISCORD_USER_ID="Your ID" ```
+- Change ```Your ID``` With Your Discord ID
+  
 Install Dependence 
 - ``` npm i ```
 
@@ -36,8 +42,12 @@ Run Project
 5. go back to startup change cmd to npm run build
 6. run server after 4 completed
 7. copy your port and go to files and edit package.json edit line number 11 change it to "start": "next start -p < your port >",
-8. go back to startup change cmd to npm run start
-9. run server back
+8. Create ```.env.local``` File
+  - Add Following Lines
+  - ``` DISCORD_USER_ID="Your ID" ```
+  - Change ```Your ID``` With Your Discord ID
+9. go back to startup change cmd to npm run start
+10. run server back
 
 thanks for using 
 made by Tanmay
