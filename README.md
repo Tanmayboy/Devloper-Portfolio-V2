@@ -40,5 +40,4 @@ Run Project
 9. run server back
 
 thanks for using 
-made by Tanmay 
-Team CodeX
+made by Tanmay
