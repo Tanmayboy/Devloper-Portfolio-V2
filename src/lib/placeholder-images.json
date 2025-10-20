@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Abstract geometric shapes representing code",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "abstract code"
+    },
+    {
+      "id": "2",
+      "description": "3D render of a futuristic object on a clean background",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "product 3d"
+    },
+    {
+      "id": "3",
+      "description": "Visualization of a glowing neural network",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "ai network"
+    },
+    {
+      "id": "4",
+      "description": "A screen showing colorful data charts and graphs",
+      "imageUrl": "https://picsum.photos/seed/4/600/400",
+      "imageHint": "data dashboard"
+    }
+  ]
+}
